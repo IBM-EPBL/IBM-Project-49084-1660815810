@@ -7,7 +7,7 @@ IBM-Project-49084-1660815810
 <p align="center">
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
-Team leader:Prasanth M S<br>
+Team leader:Prasanth M <br>
 Team member1: Karthick R<br>
 Team member2: Kishore R<br>
 Team member3: Masa benil M<br>
